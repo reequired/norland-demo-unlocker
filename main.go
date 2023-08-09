@@ -16,7 +16,7 @@ import (
 )
 
 var verbose = false                 // Set to true to see more details
-var targetVersion = "0.2912.3227.0" // The version of the game that this patcher is compatible with
+var targetVersion = "0.2952.3220.0" // The version of the game that this patcher is compatible with
 var targetName = "Norland.exe"      // The name of the game executable
 
 func getCurrentWorkingDirFile(targetExecutable string) (string, error) {
